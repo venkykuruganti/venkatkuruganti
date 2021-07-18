@@ -54,3 +54,10 @@
 **Miscellaneous Technologies:** JFROG Artifactory, JIRA, Confluence, IntelliJ IDEA and Visual Studio Code
 
 **Cloud platforms:** Heroku, AWS
+
+# Certifications
+
+[<img src='https://images.credly.com/images/969ca68c-6793-4ebc-b35a-1d2663ad3c26/cert_mark_SA_badge_large_300px.png' alt='SAFe5Agilist'  width="200" height="200">](https://www.credly.com/badges/992eb039-7597-4062-a23c-80334937a284?source=linked_in_profile)
+[<img src='https://i0.wp.com/blogs.perficient.com/files/2015/04/Special_ProgHTML5_Blk_250x186.png?ssl=1' alt='Microsoft'  width="200" height="200">](https://www.credly.com/badges/32e97235-6bfc-416d-982a-35536f3300ca)
+[<img src='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UBL48J73AMTC/CERTIFICATE_LANDING_PAGE~UBL48J73AMTC.jpeg' alt='Microsoft'  width="200" height="200">](https://www.coursera.org/account/accomplishments/verify/UBL48J73AMTC)
+[<img src='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~C5A49MV7HWUN/CERTIFICATE_LANDING_PAGE~C5A49MV7HWUN.jpeg' alt='Microsoft'  width="200" height="200">](https://www.coursera.org/account/accomplishments/verify/C5A49MV7HWUN)
