@@ -11,7 +11,7 @@
 
 **🌱 I’m currently learning** AWS
 
-**📫 How to reach me:** kvreddy0107@gmail.com
+**📫 How to reach me:** kurugantivreddy@gmail.com
 
 # Contact me
 
